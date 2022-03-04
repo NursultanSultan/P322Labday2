@@ -1,0 +1,14 @@
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\bin\Debug\netcoreapp3.1\Labday2.exe
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\bin\Debug\netcoreapp3.1\Labday2.deps.json
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\bin\Debug\netcoreapp3.1\Labday2.runtimeconfig.json
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\bin\Debug\netcoreapp3.1\Labday2.runtimeconfig.dev.json
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\bin\Debug\netcoreapp3.1\Labday2.dll
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\bin\Debug\netcoreapp3.1\Labday2.pdb
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\obj\Debug\netcoreapp3.1\Labday2.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\obj\Debug\netcoreapp3.1\Labday2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\obj\Debug\netcoreapp3.1\Labday2.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\obj\Debug\netcoreapp3.1\Labday2.AssemblyInfo.cs
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\obj\Debug\netcoreapp3.1\Labday2.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\obj\Debug\netcoreapp3.1\Labday2.dll
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\obj\Debug\netcoreapp3.1\Labday2.pdb
+C:\Users\Home\Desktop\Labday2\Labday2\Labday2\obj\Debug\netcoreapp3.1\Labday2.genruntimeconfig.cache
